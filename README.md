@@ -1,4 +1,4 @@
-# Saga-of-Rucw
-A little RPG Game
+# Welcome to Rucw, brave traveller!
+A place where you can never be sure you'll make the next day.
 
-asd
+Not released yet, but prepare yourself for when it will be!
